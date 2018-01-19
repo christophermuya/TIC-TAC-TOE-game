@@ -1,0 +1,14 @@
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic tac toe game.csproj.GenerateResource.Cache
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic tac toe game.csproj.CoreCompileInputs.cache
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\bin\Release\Tic Tac Toe Game.exe.config
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\bin\Release\Tic Tac Toe Game.exe
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\bin\Release\Tic Tac Toe Game.pdb
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic Tac Toe Game_MarkupCompile.cache
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic Tac Toe Game_MarkupCompile.lref
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic Tac Toe Game.g.resources
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic Tac Toe Game.exe
+C:\Users\chris muya\Documents\C#\WpfApp1\WpfApp1\obj\Release\Tic Tac Toe Game.pdb
